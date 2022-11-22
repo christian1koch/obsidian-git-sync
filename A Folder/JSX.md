@@ -1,0 +1,5 @@
+- Similar Syntax to HTML
+- Allows us to create react components
+- Only renders one parent element, can't render multiple sibling elements.
+- Returns plain JS objects
+- Are the building syntax of [[React Components]]

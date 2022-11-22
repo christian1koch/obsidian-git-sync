@@ -1,0 +1,2 @@
+- Have done couple sessions of deep work for my university.
+- Working more on Obsidian.

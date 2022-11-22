@@ -1,0 +1,3 @@
+- This is my first daily note.
+- I haven't done any of my studies this year. Aside from Webentwicklung. 
+- This is a daily log. 

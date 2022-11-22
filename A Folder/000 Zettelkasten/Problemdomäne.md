@@ -1,0 +1,2 @@
+- Seems to be Domain of Software, similar to kind of software.
+- https://www.geeksforgeeks.org/software-engineering-classification-software/

@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "08176acd8edeb177",
+    "type": "split",
+    "children": [
+      {
+        "id": "08b0d8066410a7ed",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae86739c2ef09842",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b3e8cd3d26397e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c1ef70cdb5d4430",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ca50f59fa9205fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ba04818a0153f74",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21acd62ab7524473",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d8251568b95784e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "847f65170a0acee8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd23bb2a7dcd60e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "08b0d8066410a7ed",
+  "lastOpenFiles": [
+    "Computer System.md",
+    "000 Zettelkasten/Radikales Vorgehen.md",
+    "000 Zettelkasten/Methoden.md",
+    "000 Zettelkasten/Problemdomäne.md",
+    "000 Zettelkasten/Functional Requirements.md",
+    "000 Zettelkasten/Non Functional Requirements.md",
+    "000 Zettelkasten/Software Eigenschaften.md",
+    "000 Zettelkasten/5 Study Tips.md",
+    "000 Zettelkasten/Teschnische Lösungsansätze.md",
+    "000 Zettelkasten/Welt der Probleme.md"
+  ]
+}

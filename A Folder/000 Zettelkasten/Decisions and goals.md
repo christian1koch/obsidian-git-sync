@@ -1,0 +1,23 @@
+- Make a good decision, not the best decision
+- Making decisions include creating intentions and setting goals, reducing worry and anxiety in the brain.
+- Decisions aren't easy, because actions are guided by a dynamic interaction between *striatum, limbic system and prefrontal cortex, own goals, habits, desires, fears* and all they demand from the limited brain resources.
+- The reason that making decisions has a positive impact in life is because it engages the prefontal cortex
+	- This one helps to rebalance dysfunctional frontal-limbic circuitry.
+	- It is also responsable for goal-oriented behaviour.
+- Decisions needs action, just doing the first step can make a domino effect for the following actions regarding a decision.
+	- Contrarily, a decision without an action is just a thought.
+- Deciding Increase Enjoyment
+	- **Actively choosing** to follow a goal rather than letting habits do the work, makes it more rewarding.
+- Decide on things you want to do, not against things you don't want to do
+	- ex: Instead of saying **I don't want to have a bad grade**, say **I want to have a good grade.**
+- Find out what is most important for you in order to set Goals.
+	- Also remember to [[Make time for the important stuff]].
+	- Studies have found that focusing on your values reduces the brain’s stress response.
+	- Think about the time you were the happiest, what were you doing there? Why were you happy? What activites make you feel the most. *fulfilled*.
+	- What achievements are you most proud of.
+	- What good qualities do you want your coworkers or friends to use when describing you?
+- Setting Goals increase dopamine
+	- Dopamine is released not only when you finish the goal but also when acomplishing every step to get to the goal.
+	- Having a goal also helps the prefrontal cortex to organize your actions toward that specific goal.
+	- Be specific with goals, [[Breaking down the one thing]]. Poorly define Goals can set you up. Ex: Poorly defined Goal: "I want to be leaner." Specific Goal: "I will do sports every day at 9 am at the park."
+	- Create **specific, achievable, long-term goals**.

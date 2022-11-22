@@ -1,0 +1,25 @@
+- A Unit will be tested as isolated as possible. Without it having to work with others.
+- In the Unit Test all methods and constructors should be tested at least once. 
+- Focus on difficult methods and not in the simple set/get methods.
+- You don't need a Test for every method.
+- You need to test al consequences of the code that is being tested.
+- Don't copy past calculations from the test, instead try to get to the result yourself or find another process that should arrive to the same result.
+- Call the methods that will be tested multiple times with
+	- Normal Values
+	- Limit/boundary/grenz Values
+	- Edge Cases (null, 29.2.2020)
+	- False Values
+- Exhaust all the Gamma of Datatype of the parameters, leave your comfort zone.
+- Check how the differnt methods work together in different cases:
+	- In situations that would normally be used.
+	- In situations that only will appear in edge cases.
+	- In situations that in the Praxis won't appear, but are possible to recreate.
+- Check for: 
+	- Return type
+	- All the atributes of the object that can change.
+	- The attributes that the Parameters change.
+	- Side Effects.
+	- Is the programm doing something that it shouldn't do?
+		- Attributes from this or attributrs from Parameters?
+		- Changing external ressources?
+		- 

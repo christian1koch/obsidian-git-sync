@@ -1,0 +1,5 @@
+- Is basically trying to instead of learning things seperately, to join them together and think how does this relate to something else
+- Good questions are?
+	- How does this relate with something else?
+	- How does this fit in the big picture?
+- If its too hard you can start thinking **how you can apply this.** which is better than memorizing.
